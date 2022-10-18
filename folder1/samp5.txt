@@ -1,0 +1,9 @@
+Complete the below tasks:
+Task 1: Create 5 Files in separate folders in a repository
+Task 2: Make changes to these files
+Task 3: Stage the files and note the blobs and their SHAs
+Task 4: Create a tree for each of these stages
+Task 5: Perform commits on these files.
+Task 6: Tag some of the commits
+Task 7: Print the contents of the objects folder in git repository
+*
