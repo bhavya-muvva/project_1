@@ -6,4 +6,4 @@ Task 4: Create a tree for each of these stages
 Task 5: Perform commits on these files.
 Task 6: Tag some of the commits
 Task 7: Print the contents of the objects folder in git repository
-*
+//submit the assignment
